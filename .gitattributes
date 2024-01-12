@@ -1,1 +1,1 @@
-**/**.md -linguist-documentation linguist-detectable
+**.md -linguist-documentation linguist-detectable
